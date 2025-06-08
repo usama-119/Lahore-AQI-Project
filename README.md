@@ -52,6 +52,6 @@ jupyter notebook
 - **Deep Learning Models (LSTMs, CNNs)**
 
 ## 📝 Author
-- **Ammar Shahid**
+- **Usama Riaz**
 
 📌 If you find this project useful, feel free to ⭐ star this repo!
